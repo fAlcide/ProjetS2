@@ -3,6 +3,18 @@ footer {
   justify-content: space-around;
   padding: 10px;
   border-top: 1px solid lightgrey;
+  text-align: center;
+}
+
+footer h3 {
+  font-weight: 400;
+
+  color: #024b30;
+}
+
+footer li {
+  color: #838383;
+  font-size: 15px;
 }
 
 footer .left {
